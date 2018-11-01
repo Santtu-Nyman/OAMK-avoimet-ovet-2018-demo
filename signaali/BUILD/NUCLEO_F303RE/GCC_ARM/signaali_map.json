@@ -1,0 +1,112 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 4, 
+            ".bss": 9, 
+            ".text": 174
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2472, 
+            ".bss": 89, 
+            ".text": 28345
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3308
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 16, 
+            ".bss": 28, 
+            ".text": 252
+        }
+    }, 
+    {
+        "module": "ask_CRC16.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 158
+        }
+    }, 
+    {
+        "module": "ask_receiver.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 4, 
+            ".text": 1530
+        }
+    }, 
+    {
+        "module": "ask_transmitter.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 4, 
+            ".text": 976
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 4820, 
+            ".text": 444
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 100, 
+            ".text": 1617
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data": 4, 
+            ".bss": 68, 
+            ".text": 1865
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data": 260, 
+            ".bss": 217, 
+            ".text": 4530
+        }
+    }, 
+    {
+        "module": "mbed-os\\rtos", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6073, 
+            ".text": 8954
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data": 4, 
+            ".bss": 752, 
+            ".text": 9161
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 15100, 
+            "total_flash": 64250
+        }
+    }
+]

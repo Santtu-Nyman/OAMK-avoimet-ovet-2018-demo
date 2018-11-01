@@ -1,0 +1,13 @@
+﻿  rle2img.c
+c:\users\santtu nyman\documents\visual studio 2017\projects\rle2img\rle2img\rle2img.c(169): warning C4022: 'memcpy': pointer mismatch for actual parameter 2
+c:\users\santtu nyman\documents\visual studio 2017\projects\rle2img\rle2img\rle2img.c(220): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\santtu nyman\documents\visual studio 2017\projects\rle2img\rle2img\rle2img.c(289): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(506): note: see declaration of 'localtime'
+c:\users\santtu nyman\documents\visual studio 2017\projects\rle2img\rle2img\rle2img.c(306): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\santtu nyman\documents\visual studio 2017\projects\rle2img\rle2img\rle2img.c(309): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\santtu nyman\documents\visual studio 2017\projects\rle2img\rle2img\rle2img.c(367): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  rle2img.vcxproj -> C:\Users\Santtu Nyman\Documents\Visual Studio 2017\Projects\rle2img\x64\Debug\rle2img.exe
