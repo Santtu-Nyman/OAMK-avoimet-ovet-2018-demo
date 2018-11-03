@@ -1,4 +1,4 @@
-// OAMK Avoimet ovet 2018 demo by Santtu Nyman
+// OAMK avoimet ovet 2018 demo by Santtu Nyman
 
 #include <stddef.h>
 #include <stdint.h>
@@ -42,7 +42,7 @@ void loop()
 		}
 		rh_driver.send(packet_message, 1 + packet_message_length);
 		respond_received = false;
-		for (unsigned long begin_time = millis(); !respond_received && millis() - begin_time < 900;)
+		for (unsigned long begin_time = millis(); !respond_received && millis() - begin_time < 400;)
 		{
 			uint8_t bytes_received = 1;
 			if (rh_driver.recv(&response, &bytes_received) && bytes_received && response == packet_message[0])

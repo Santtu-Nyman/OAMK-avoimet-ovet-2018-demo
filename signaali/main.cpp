@@ -1,4 +1,4 @@
-// OAMK Avoimet ovet 2018 demo by Santtu Nyman
+// OAMK avoimet ovet 2018 demo by Santtu Nyman
 
 #include "mbed.h"
 #include <stddef.h>
@@ -73,7 +73,7 @@ void simple_arq_send(ask_receiver_t* receiver, ask_transmitter_t* transmitter, s
 		timer.reset();
 		timer.start();
 		bool respond_received = false;
-		while (!respond_received && timer.read_ms() < 900)
+		while (!respond_received && timer.read_ms() < 400)
 			if (receiver->recv(&response, 1))
 				respond_received = true;
 		timer.stop();

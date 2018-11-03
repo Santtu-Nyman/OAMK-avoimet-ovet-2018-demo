@@ -1,4 +1,4 @@
-// OAMK Avoimet ovet 2018 demo by Santtu Nyman
+// OAMK avoimet ovet 2018 demo by Santtu Nyman
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stddef.h>

@@ -26406,8 +26406,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x70 BUILD/NUCLEO_F303RE/GCC_ARM/test_env.o
  .debug_ranges  0x00000000       0xa8 BUILD/NUCLEO_F303RE/GCC_ARM/test_env.o
- .debug_line    0x00000000      0x207 BUILD/NUCLEO_F303RE/GCC_ARM/test_env.o
- .debug_str     0x00000000      0x4d5 BUILD/NUCLEO_F303RE/GCC_ARM/test_env.o
+ .debug_line    0x00000000      0x20c BUILD/NUCLEO_F303RE/GCC_ARM/test_env.o
+ .debug_str     0x00000000      0x4df BUILD/NUCLEO_F303RE/GCC_ARM/test_env.o
  .comment       0x00000000       0x80 BUILD/NUCLEO_F303RE/GCC_ARM/test_env.o
  .debug_frame   0x00000000       0xd8 BUILD/NUCLEO_F303RE/GCC_ARM/test_env.o
  .ARM.attributes
@@ -30835,142 +30835,142 @@ OUTPUT(./BUILD/NUCLEO_F303RE/GCC_ARM/signaali.elf elf32-littlearm)
  .debug_line    0x0000c36d       0xa7 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/sleep.o
  .debug_line    0x0000c414      0x1c2 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/us_ticker.o
 
-.debug_str      0x00000000     0x9ec0
+.debug_str      0x00000000     0x9f03
  .debug_str     0x00000000      0x3d7 BUILD/NUCLEO_F303RE/GCC_ARM/ask_CRC16.o
                                 0x40a (size before relaxing)
  .debug_str     0x000003d7      0x89c BUILD/NUCLEO_F303RE/GCC_ARM/ask_receiver.o
                                 0xa12 (size before relaxing)
  .debug_str     0x00000c73      0x36b BUILD/NUCLEO_F303RE/GCC_ARM/ask_transmitter.o
                                 0x946 (size before relaxing)
- .debug_str     0x00000fde      0x335 BUILD/NUCLEO_F303RE/GCC_ARM/main.o
-                                0x4eb (size before relaxing)
- .debug_str     0x00001313      0x2f8 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/CAN.o
+ .debug_str     0x00000fde      0x378 BUILD/NUCLEO_F303RE/GCC_ARM/main.o
+                                0x4f0 (size before relaxing)
+ .debug_str     0x00001356      0x2f8 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/CAN.o
                                 0x732 (size before relaxing)
- .debug_str     0x0000160b      0x386 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/FlashIAP.o
+ .debug_str     0x0000164e      0x386 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/FlashIAP.o
                                 0x52e (size before relaxing)
- .debug_str     0x00001991      0x676 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/I2C.o
+ .debug_str     0x000019d4      0x676 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/I2C.o
                                 0x911 (size before relaxing)
- .debug_str     0x00002007      0xaf0 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/SPI.o
+ .debug_str     0x0000204a      0xaf0 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/SPI.o
                                0x1087 (size before relaxing)
- .debug_str     0x00002af7      0x14d BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/Serial.o
+ .debug_str     0x00002b3a      0x14d BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/Serial.o
                                 0x4c1 (size before relaxing)
- .debug_str     0x00002c44      0x78f BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/SerialBase.o
+ .debug_str     0x00002c87      0x78f BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/SerialBase.o
                                 0xe6d (size before relaxing)
- .debug_str     0x000033d3       0x75 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/Ticker.o
+ .debug_str     0x00003416       0x75 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/Ticker.o
                                 0x52b (size before relaxing)
- .debug_str     0x00003448      0x249 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/TimerEvent.o
+ .debug_str     0x0000348b      0x249 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/TimerEvent.o
                                 0x3d4 (size before relaxing)
- .debug_str     0x00003691      0xd21 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/UARTSerial.o
+ .debug_str     0x000036d4      0xd21 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/drivers/UARTSerial.o
                                0x130b (size before relaxing)
- .debug_str     0x000043b2      0x1d2 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_critical_section_api.o
+ .debug_str     0x000043f5      0x1d2 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_critical_section_api.o
                                 0x210 (size before relaxing)
- .debug_str     0x00004584       0x68 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_gpio.o
+ .debug_str     0x000045c7       0x68 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_gpio.o
                                 0x1e7 (size before relaxing)
- .debug_str     0x000045ec       0x8c BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_pinmap_common.o
+ .debug_str     0x0000462f       0x8c BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_pinmap_common.o
                                 0x1e5 (size before relaxing)
- .debug_str     0x00004678       0xe8 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_sleep_manager.o
+ .debug_str     0x000046bb       0xe8 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_sleep_manager.o
                                 0x249 (size before relaxing)
- .debug_str     0x00004760      0x10a BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_ticker_api.o
+ .debug_str     0x000047a3      0x10a BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_ticker_api.o
                                 0x28e (size before relaxing)
- .debug_str     0x0000486a       0x50 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_us_ticker_api.o
+ .debug_str     0x000048ad       0x50 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/hal/mbed_us_ticker_api.o
                                 0x1bf (size before relaxing)
- .debug_str     0x000048ba      0x1e8 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/FileBase.o
+ .debug_str     0x000048fd      0x1e8 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/FileBase.o
                                 0x3fd (size before relaxing)
- .debug_str     0x00004aa2       0x3e BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/FileHandle.o
+ .debug_str     0x00004ae5       0x3e BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/FileHandle.o
                                 0x358 (size before relaxing)
- .debug_str     0x00004ae0      0x136 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/FilePath.o
+ .debug_str     0x00004b23      0x136 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/FilePath.o
                                 0x2a2 (size before relaxing)
- .debug_str     0x00004c16      0x44f BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/Stream.o
+ .debug_str     0x00004c59      0x44f BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/Stream.o
                                 0x914 (size before relaxing)
- .debug_str     0x00005065       0xb1 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_alloc_wrappers.o
+ .debug_str     0x000050a8       0xb1 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_alloc_wrappers.o
                                 0x218 (size before relaxing)
- .debug_str     0x00005116       0x36 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_assert.o
+ .debug_str     0x00005159       0x36 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_assert.o
                                 0x18f (size before relaxing)
- .debug_str     0x0000514c       0x4f BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_board.o
+ .debug_str     0x0000518f       0x4f BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_board.o
                                 0x1b3 (size before relaxing)
- .debug_str     0x0000519b      0x235 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_critical.o
+ .debug_str     0x000051de      0x235 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_critical.o
                                 0x39c (size before relaxing)
- .debug_str     0x000053d0      0x136 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_error.o
+ .debug_str     0x00005413      0x136 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_error.o
                                 0x2a0 (size before relaxing)
- .debug_str     0x00005506      0x6ba BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_retarget.o
+ .debug_str     0x00005549      0x6ba BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_retarget.o
                                 0xc5e (size before relaxing)
- .debug_str     0x00005bc0       0x32 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_wait_api_rtos.o
+ .debug_str     0x00005c03       0x32 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/platform/mbed_wait_api_rtos.o
                                 0x1a6 (size before relaxing)
- .debug_str     0x00005bf2      0x232 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/Mutex.o
+ .debug_str     0x00005c35      0x232 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/Mutex.o
                                 0x3c4 (size before relaxing)
- .debug_str     0x00005e24       0x6c BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/TARGET_CORTEX_M/mbed_rtx_fault_handler.o
+ .debug_str     0x00005e67       0x6c BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/TARGET_CORTEX_M/mbed_rtx_fault_handler.o
                                 0x1c5 (size before relaxing)
- .debug_str     0x00005e90       0x9b BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/mbed_boot.o
+ .debug_str     0x00005ed3       0x9b BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/mbed_boot.o
                                 0x23e (size before relaxing)
- .debug_str     0x00005f2b       0x79 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/mbed_rtx_handlers.o
+ .debug_str     0x00005f6e       0x79 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/mbed_rtx_handlers.o
                                 0x1d2 (size before relaxing)
- .debug_str     0x00005fa4       0x66 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/mbed_rtx_idle.o
+ .debug_str     0x00005fe7       0x66 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/mbed_rtx_idle.o
                                 0x1d3 (size before relaxing)
- .debug_str     0x0000600a       0x58 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rt_OsEventObserver.o
+ .debug_str     0x0000604d       0x58 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rt_OsEventObserver.o
                                 0x1b1 (size before relaxing)
- .debug_str     0x00006062       0xaa BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_delay.o
+ .debug_str     0x000060a5       0xaa BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_delay.o
                                 0x21c (size before relaxing)
- .debug_str     0x0000610c       0xd6 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_evr.o
+ .debug_str     0x0000614f       0xd6 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_evr.o
                                 0x256 (size before relaxing)
- .debug_str     0x000061e2      0x3df BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_kernel.o
+ .debug_str     0x00006225      0x3df BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_kernel.o
                                 0x589 (size before relaxing)
- .debug_str     0x000065c1       0x37 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_lib.o
+ .debug_str     0x00006604       0x37 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_lib.o
                                 0x1a3 (size before relaxing)
- .debug_str     0x000065f8       0x82 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_memory.o
+ .debug_str     0x0000663b       0x82 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_memory.o
                                 0x1db (size before relaxing)
- .debug_str     0x0000667a      0x390 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_mempool.o
+ .debug_str     0x000066bd      0x390 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_mempool.o
                                 0x526 (size before relaxing)
- .debug_str     0x00006a0a      0x38c BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_msgqueue.o
+ .debug_str     0x00006a4d      0x38c BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_msgqueue.o
                                 0x57e (size before relaxing)
- .debug_str     0x00006d96      0x189 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_mutex.o
+ .debug_str     0x00006dd9      0x189 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_mutex.o
                                 0x341 (size before relaxing)
- .debug_str     0x00006f1f      0x138 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_system.o
+ .debug_str     0x00006f62      0x138 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_system.o
                                 0x2a7 (size before relaxing)
- .debug_str     0x00007057      0x75a BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_thread.o
+ .debug_str     0x0000709a      0x75a BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_thread.o
                                 0x962 (size before relaxing)
- .debug_str     0x000077b1      0x1aa BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_timer.o
+ .debug_str     0x000077f4      0x1aa BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/RTX/Source/rtx_timer.o
                                 0x354 (size before relaxing)
- .debug_str     0x0000795b       0xd4 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/Source/os_systick.o
+ .debug_str     0x0000799e       0xd4 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/TARGET_CORTEX/rtx5/Source/os_systick.o
                                 0x22d (size before relaxing)
- .debug_str     0x00007a2f      0x4bf BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/Thread.o
+ .debug_str     0x00007a72      0x4bf BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/rtos/Thread.o
                                 0x79e (size before relaxing)
- .debug_str     0x00007eee       0x65 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/TARGET_STM32F303xE/TARGET_NUCLEO_F303RE/PeripheralPins.o
+ .debug_str     0x00007f31       0x65 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/TARGET_STM32F303xE/TARGET_NUCLEO_F303RE/PeripheralPins.o
                                 0x1be (size before relaxing)
- .debug_str     0x00007f53       0xa2 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/TARGET_STM32F303xE/TARGET_NUCLEO_F303RE/system_clock.o
+ .debug_str     0x00007f96       0xa2 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/TARGET_STM32F303xE/TARGET_NUCLEO_F303RE/system_clock.o
                                 0x1fb (size before relaxing)
- .debug_str     0x00007ff5      0x1cb BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal.o
+ .debug_str     0x00008038      0x1cb BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal.o
                                 0x324 (size before relaxing)
- .debug_str     0x000081c0      0x2d3 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_cortex.o
+ .debug_str     0x00008203      0x2d3 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_cortex.o
                                 0x453 (size before relaxing)
- .debug_str     0x00008493      0x166 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_pwr.o
+ .debug_str     0x000084d6      0x166 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_pwr.o
                                 0x2bf (size before relaxing)
- .debug_str     0x000085f9      0x167 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_rcc.o
+ .debug_str     0x0000863c      0x167 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_rcc.o
                                 0x2c0 (size before relaxing)
- .debug_str     0x00008760       0xae BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_rcc_ex.o
+ .debug_str     0x000087a3       0xae BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_rcc_ex.o
                                 0x20e (size before relaxing)
- .debug_str     0x0000880e      0x9a4 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_tim.o
+ .debug_str     0x00008851      0x9a4 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_tim.o
                                 0xafd (size before relaxing)
- .debug_str     0x000091b2      0x542 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_uart.o
+ .debug_str     0x000091f5      0x542 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/stm32f3xx_hal_uart.o
                                 0x6bc (size before relaxing)
- .debug_str     0x000096f4       0x5c BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/system_stm32f3xx.o
+ .debug_str     0x00009737       0x5c BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/device/system_stm32f3xx.o
                                 0x1b5 (size before relaxing)
- .debug_str     0x00009750      0x1d3 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/serial_device.o
+ .debug_str     0x00009793      0x1d3 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F3/serial_device.o
                                 0x3b4 (size before relaxing)
- .debug_str     0x00009923      0x13b BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/can_api.o
+ .debug_str     0x00009966      0x13b BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/can_api.o
                                 0x2b6 (size before relaxing)
- .debug_str     0x00009a5e       0x70 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/gpio_api.o
+ .debug_str     0x00009aa1       0x70 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/gpio_api.o
                                 0x1d0 (size before relaxing)
- .debug_str     0x00009ace       0x32 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/hal_tick_overrides.o
+ .debug_str     0x00009b11       0x32 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/hal_tick_overrides.o
                                 0x1c3 (size before relaxing)
- .debug_str     0x00009b00       0x2e BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/mbed_overrides.o
+ .debug_str     0x00009b43       0x2e BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/mbed_overrides.o
                                 0x195 (size before relaxing)
- .debug_str     0x00009b2e       0xf6 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/pinmap.o
+ .debug_str     0x00009b71       0xf6 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/pinmap.o
                                 0x269 (size before relaxing)
- .debug_str     0x00009c24      0x100 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/serial_api.o
+ .debug_str     0x00009c67      0x100 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/serial_api.o
                                 0x259 (size before relaxing)
- .debug_str     0x00009d24       0x91 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/sleep.o
+ .debug_str     0x00009d67       0x91 BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/sleep.o
                                 0x1ea (size before relaxing)
- .debug_str     0x00009db5      0x10b BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/us_ticker.o
+ .debug_str     0x00009df8      0x10b BUILD/NUCLEO_F303RE/GCC_ARM/mbed-os/targets/TARGET_STM/us_ticker.o
                                 0x299 (size before relaxing)
 
 .debug_frame    0x00000000     0x8280
